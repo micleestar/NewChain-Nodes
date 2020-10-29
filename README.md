@@ -42,4 +42,4 @@ https://github.com/newtonproject/newchain-deploy/wiki/NewChain-TestNet-mine
 
 /data/newchain/testnet/bin/geth attach /data/newchain/testnet/nodedata/geth.ipc --exec 'clique.propose("000", true)'
 
-7.在群里发送消息下面信息等待其他节点批准加入记账节点:
+7. Wait for the approval and executing codes from other nodes operators/等待其他节点执行代码批准加入
