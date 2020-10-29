@@ -22,17 +22,17 @@ https://explorer.testnet.newtonproject.org
 
 4. Fill in and submitt following info./填写提交如下内容:
 
-4.1 Node name(public)/对外显示名称 （公开）：
+4.1 Node name/对外显示名称：
 
-4.2 Minner address(public)/进行打包出块的miner地址 （公开）：
+4.2 Minner address/进行打包出块的miner地址：
 
-4.3 RPC Url(public)/对外RPC Url（可以是服务器地址加端口）（公开）：
+4.3 RPC Url/RPC Url（可以是服务器地址加端口）：
 
-4.4 Node operator name(public)/运行节点主体（个人、社群、组织）名称（公开）：
+4.4 Node operator name/运行节点主体（个人、社群、组织）名称：
 
-4.5 Contacts such as email, telegram account(public)/节点负责人及联系方式（手机、邮箱、微信、telegram等等均可）：
+4.5 Contacts such as email, telegram account/节点负责人及联系方式（手机、邮箱、微信、telegram等均可）：
 
-4.6 NewPay/NewMask Mainnet NEW address/用于接收测试网矿工纪念币的主网NEW地址(NewPay或者NewMask)：
+4.6 NewPay orNewMask Mainnet NEW address/用于接收测试网矿工纪念币的主网NEW地址(NewPay或NewMask)：
 
 5. Execute codes as per following instructions to upgrade to acchount node/按照下列链接中说明操作将只读节点升级为记账节点：
 
