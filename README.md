@@ -6,13 +6,13 @@ https://aws.amazon.com/ec2/
 
 https://www.aliyun.com/product/ecs?spm=5176.12825654.eofdhaal5.2.36722c4aSDIOpf
 
-2. Deploy following instructions to launch block synchronizing/按照下面链接代码操作部署测试网，启动区块同步：
+2. Deploy testnet as per following instructions to launch block synchronizing/按照下面链接代码操作部署测试网，启动区块同步：
 
 https://github.com/newtonproject/newchain-deploy
 
 3. Check the progress of block synchronizing/查看区块同步进度：
 
-3.1 Execute following commands to see the current block height which corresponds to number/执行命令查看同步好的区块高度（number字段对应值）；
+3.1 Execute following command to check the synchronized block height/执行命令查看同步好的区块高度（number字段对应值）；
 
 sudo supervisorctl tail -f newchain stderr
 
@@ -22,7 +22,7 @@ https://explorer.testnet.newtonproject.org
 
 4. Fill in and submitt following info./填写提交如下内容:
 
-4.1 Node name(public)/对外显示名称 （公开）:
+4.1 Node name(public)/对外显示名称 （公开）：
 
 4.2 Minner address(public)/进行打包出块的miner地址 （公开）：
 
@@ -34,7 +34,7 @@ https://explorer.testnet.newtonproject.org
 
 4.6 NewPay/NewMask Mainnet NEW address/用于接收测试网矿工纪念币的主网NEW地址(NewPay或者NewMask)：
 
-5. Execute codes as per following instructions to upgrade to acchount node/按照下列链接中说明操作将只读节点升级为记账节点:
+5. Execute codes as per following instructions to upgrade to acchount node/按照下列链接中说明操作将只读节点升级为记账节点：
 
 https://github.com/newtonproject/newchain-deploy/wiki/NewChain-TestNet-mine
 
