@@ -38,7 +38,7 @@ https://explorer.testnet.newtonproject.org
 
 https://github.com/newtonproject/newchain-deploy/wiki/NewChain-TestNet-mine
 
-6. 将自己0x开头的minner地址复制，粘贴替代下列代码中的000，并将替代好的代码发送到该群:
+6. Copy minner address and replace 000 in following command to request other node to execute it and approve your upgrade/使用Minner地址粘贴替代下列代码中的000，请求其他节点执行代码:
 
 /data/newchain/testnet/bin/geth attach /data/newchain/testnet/nodedata/geth.ipc --exec 'clique.propose("000", true)'
 
