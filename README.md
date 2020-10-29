@@ -1,6 +1,7 @@
 ## NewChain-Nodes Testnet NewChain Nodes测试网接入指南
 
-#1. Purchase Elastic Compute Service(ECS), you may refer to folowing link/购买云服务器，购买云服务器可参考:
+1. Purchase Elastic Compute Service(ECS), you may refer to folowing link/购买云服务器，购买云服务器可参考:
+
 https://aws.amazon.com/ec2/
 https://www.aliyun.com/product/ecs?spm=5176.12825654.eofdhaal5.2.36722c4aSDIOpf
 
