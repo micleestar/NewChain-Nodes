@@ -16,7 +16,7 @@ https://github.com/newtonproject/newchain-deploy
 
 sudo supervisorctl tail -f newchain stderr
 
-3.2 Make sure synchronization block is completed and same to the latest testnet block height at below link/确保已同步好的区块链高度与下面连接中的测试网最新区块高度一致；
+3.2 Make sure block synchronization is completed and same to the latest testnet block height at below link/确保已同步好的区块链高度与下面连接中的测试网最新区块高度一致；
 
 https://explorer.testnet.newtonproject.org
 
@@ -42,4 +42,4 @@ https://github.com/newtonproject/newchain-deploy/wiki/NewChain-TestNet-mine
 
 /data/newchain/testnet/bin/geth attach /data/newchain/testnet/nodedata/geth.ipc --exec 'clique.propose("000", true)'
 
-7. Wait for the approval and executing codes from other nodes operators/等待其他节点执行代码批准加入
+7. Wait for the code executing and approval from other nodes operators/等待其他节点执行代码批准加入
