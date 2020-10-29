@@ -1,4 +1,4 @@
-## NewChain-Nodes Testnet NewChain Nodes测试网接入指南
+## NewChain-Nodes Testnet deploy instructions/测试网接入指南
 
 1. Purchase Elastic Compute Service(ECS), you may refer to folowing link/购买云服务器，购买云服务器可参考:
 
