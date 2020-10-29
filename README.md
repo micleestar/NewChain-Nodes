@@ -16,7 +16,7 @@ https://github.com/newtonproject/newchain-deploy
 
 sudo supervisorctl tail -f newchain stderr
 
-3.2 Make sure synchronized block is same to the latest testnet block height at below link/确保已同步好的区块链高度与下面连接中的测试网最新区块高度一致；
+3.2 Make sure synchronization block is completed and same to the latest testnet block height at below link/确保已同步好的区块链高度与下面连接中的测试网最新区块高度一致；
 
 https://explorer.testnet.newtonproject.org
 
